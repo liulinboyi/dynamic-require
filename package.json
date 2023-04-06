@@ -1,0 +1,15 @@
+{
+  "name": "dynamic-require",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dynimic.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node ./dynimic.js",
+    "dev-mjs": "node ./dynimic.mjs",
+    "dev-cjs": "node ./cjsRunEsm.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
